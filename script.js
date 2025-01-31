@@ -1,4 +1,4 @@
-   const margin = { right: 20, top: 30, left: 70, bottom: 40 };
+   const margin = { right: 40, top: 30, left: 70, bottom: 40 };
    const width = 1200 - margin.left - margin.right;
    const height = 600 - margin.top - margin.bottom;
 
